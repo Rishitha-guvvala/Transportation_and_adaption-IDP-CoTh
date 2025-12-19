@@ -1,0 +1,93 @@
+.headers {
+    padding: 50px;
+    text-align: center;
+    background: #13e09f;
+    color: rgb(244, 44, 44);
+    font-size: 35px;
+  }
+.flex-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content:center
+}
+.flex-child{
+  background-color: #1f911b;
+  margin: 10px;
+  text-align: center;
+  font-size: 20px;
+  color:white
+}
+.dotborder{
+border-style: dotted;
+border-color: rgb(255, 255, 0);
+border-width: 3px;
+}
+.Dotted{
+  display: flex;
+  border-style: dotted;
+border-color: rgb(255, 0, 221);
+border-width: 4px;
+flex-direction: row;
+  justify-content:center
+}
+
+.home{
+  background-color: #00ff737e;
+  margin: 10px;
+  text-align: center;
+  font-size: 20px;
+  color:white;
+  text-align: center;
+}
+img{
+  width: 30%;
+  height: 32%;
+}
+
+.diwali-img {
+  width: 40%;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px gold;
+}
+.ganesh-img {
+  width: 40%;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00796b;
+}
+
+.sankranthi-img {
+  display: inline-block;
+  width: 40%;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ff9800;
+}
+
+.dushera-text {
+  font-size: 1.2em;
+  text-align: center;
+  padding: 15px;
+  color: #333;
+  max-width: 800px;
+  margin: 20px auto;
+  line-height: 1.6;
+  background-color: #fff3e0; 
+  border: 2px dotted #d32f2f;
+  border-radius: 10px;
+}
+.Dushera-img {
+  display: inline-block;
+  width: 40%;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ff9800;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #13e09f;
+    color: white;
+  } 
